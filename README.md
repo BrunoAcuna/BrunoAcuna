@@ -6,9 +6,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunoacuna-jd/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brunoacn_/)
 
-![Acuna GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoAcuna&show_icons=true&theme=dracula)
+![Acuna GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoAcuna&show_icons=true&theme=dracula&locale=pt-br)
 
-## Tecnologias que eu uso no meu dia
+### Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
@@ -20,7 +20,7 @@
 </div><br/>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoAcuna&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoAcuna&layout=compact&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 
 Apaixonado por tecnologia, sempre em busca de conhecimento!!
