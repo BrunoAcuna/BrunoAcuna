@@ -20,7 +20,7 @@
 </div><br/>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoAcuna&layout=compact)](https://github.com/BrunoAcuna/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoAcuna&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 
 Apaixonado por tecnologia, sempre em busca de conhecimento!!
