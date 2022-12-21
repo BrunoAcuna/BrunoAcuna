@@ -6,7 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunoacuna-jd/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brunoacn_/)
 
-![Acuna GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoAcuna&show_icons=true&theme=dracula&locale=pt-br)
+![Acuna GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoAcuna&show_icons=true&theme=tokyonight&locale=pt-br)
 
 ### Tecnologias que eu uso no meu dia
 
